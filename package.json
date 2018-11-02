@@ -1,0 +1,27 @@
+{
+  "name": "socketio-new-project-01",
+  "version": "1.0.0",
+  "description": "This is my project about socketIO",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quocluc/socketio-new.git"
+  },
+  "keywords": [
+    "soketio",
+    "nodejs"
+  ],
+  "author": "luc.nnu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quocluc/socketio-new/issues"
+  },
+  "homepage": "https://github.com/quocluc/socketio-new#readme",
+  "dependencies": {
+    "express": "*",
+    "socket.io": "*"
+  }
+}
